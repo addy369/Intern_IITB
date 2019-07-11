@@ -1,5 +1,5 @@
 # Intern_IITB
-This repository is a collection of work done as part of my internship at Medal Labs IITB under Dr Amit Sethi.
+This repository is a collection of work done as part of my internship at Medal Labs IITB under Dr Amit Sethi Sir.
 
 
 Problem Statement: Domain Adaptation/generalization on Histopathology images
