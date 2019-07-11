@@ -24,7 +24,6 @@ Deep Domain Generalization
 
 sample image label is
 ROI__0__A05__layer__0__3663__12676__2196__1249___0_400.png
-
 where 05 is the domain label
 
 Also classification is binary class i.e benign and insitu cancer
