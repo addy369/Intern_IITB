@@ -15,8 +15,26 @@ http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya_Li_Deep_Domain_Generali
 
 http://proceedings.mlr.press/v37/ganin15.pdf
 
+There is also a base code on binary classification and can be used for various other tasks also.
 
+The data is BACH data and in
 
+case(1)
+Deep Domain Generalization
+sample image label is
+
+ROI__0__A05__layer__0__3663__12676__2196__1249___0_400.png
+
+where 05 is the domain label
+
+Also classification is binary class i.e benign and insitu cancer
+
+case(2)
+
+Unsupervised domain adaptation
+
+binary domain test data is domain 1 and target domain is domain 0
+binary classification task of benign vs insitu
 
 
 
