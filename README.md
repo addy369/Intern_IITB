@@ -19,7 +19,7 @@ There is also a base code on binary classification and can be used for various o
 
 The data is BACH data and in
 
-case(1)
+<b>CASE 1</b> 
 Deep Domain Generalization
 sample image label is
 
@@ -29,7 +29,7 @@ where 05 is the domain label
 
 Also classification is binary class i.e benign and insitu cancer
 
-case(2)
+<b>CASE 2</b>
 
 Unsupervised domain adaptation
 
